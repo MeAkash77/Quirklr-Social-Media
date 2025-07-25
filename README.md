@@ -70,7 +70,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Mahmud0808/Quirklr.git
+git clone https://github.com/MeAkash77/Quirklr-Social-Media.git
 cd Quirklr
 ```
 
@@ -118,7 +118,3 @@ Contributions are welcome! Here's how you can contribute:
 - Open a pull request.
 
 ## 📬 Contact
-
-Wanna reach out to me? DM me at 👇
-
-Email: mahmudul15-13791@diu.edu.bd
