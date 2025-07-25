@@ -37,6 +37,8 @@
 
 - and many more, including code architecture and reusability.
 
+## <a name="Profile page">✨ Profile page</a>
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **Frontend:** Next.js, Shadcn UI, TailwindCSS
