@@ -45,6 +45,10 @@
 
 <img width="959" height="438" alt="Image" src="https://github.com/user-attachments/assets/126cd11e-3fd1-47fb-88dc-0af6d6cd8057" />
 
+## <a name="Post Section">✨ Post Section</a>
+
+<img width="959" height="440" alt="Image" src="https://github.com/user-attachments/assets/9b77db06-1f05-4bd4-b899-bf12356e7f91" />
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **Frontend:** Next.js, Shadcn UI, TailwindCSS
