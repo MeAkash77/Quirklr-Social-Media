@@ -20,7 +20,7 @@
      <b>Quirklr</b> is a dynamic social media platform where users can create threads, engage in discussions, manage communities, and explore personalized user profiles. Built with Next.js, MongoDB, and TailwindCSS, Quirklr offers a seamless experience for connecting and interacting with communities of interest.
   </div>
   <br />
-  <a href="https://quirklrapp.vercel.app/"><strong>➥ Visit Quirklr App</strong></a>
+  <a href="https://quirklr-social-media.vercel.app/"><strong>➥ Visit Quirklr App</strong></a>
 </div>
 
 ## <a name="features">✨ Features</a>
