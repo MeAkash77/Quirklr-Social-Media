@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=387CC8" alt="typescript" />
   </div>
 
-  <h2 align="center">Quirklr</h2>
+  <h2 align="center">Quirklr Social Media</h2>
 
   <div align="center">
      <b>Quirklr</b> is a dynamic social media platform where users can create threads, engage in discussions, manage communities, and explore personalized user profiles. Built with Next.js, MongoDB, and TailwindCSS, Quirklr offers a seamless experience for connecting and interacting with communities of interest.
