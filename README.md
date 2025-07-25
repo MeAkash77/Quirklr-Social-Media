@@ -37,7 +37,13 @@
 
 - and many more, including code architecture and reusability.
 
-## <a name="Profile page">✨ Profile page</a>
+## <a name="Profile page">✨ Profile Page</a>
+
+<img width="959" height="440" alt="Image" src="https://github.com/user-attachments/assets/d4079127-c486-4b20-a01d-084e982dd7e7" />
+
+## <a name="Profile page">✨ Profile Section</a>
+
+<img width="959" height="438" alt="Image" src="https://github.com/user-attachments/assets/126cd11e-3fd1-47fb-88dc-0af6d6cd8057" />
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
